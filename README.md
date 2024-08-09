@@ -39,7 +39,7 @@ This setup is mostly based on personal preferences and needs.
 - [ ] Install [Git](https://git-scm.com/download/mac)
 - [ ] Install and setup [GitHub CLI](https://cli.github.com/)
 - [ ] Install and setup [pre-commit](https://pre-commit.com/#intro)
-- [ ] $ Install [Tower]() Git client
+- [ ] $ Install [Git Tower](https://www.git-tower.com/mac) client
 
 ### Setup Terminal
 
