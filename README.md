@@ -11,7 +11,7 @@ This setup is mostly based on personal preferences and needs.
 
 ### Finder
 
-- [ ] Add Developer directory
+- [ ] Add `~/Developer` directory
 - [ ] Show Library directory with `chflags nohidden ~Library`
 
 ### Dock
@@ -37,7 +37,9 @@ This setup is mostly based on personal preferences and needs.
 ### Setup Git
 
 - [ ] Install [Git](https://git-scm.com/download/mac)
-- [ ] ($) Install [Tower]() Git client
+- [ ] Install and setup [GitHub CLI](https://cli.github.com/)
+- [ ] Install and setup [pre-commit](https://pre-commit.com/#intro)
+- [ ] $ Install [Tower]() Git client
 
 ### Setup Terminal
 
@@ -47,7 +49,7 @@ This setup is mostly based on personal preferences and needs.
 ### Setup JetBrains
 
 - [ ] Install [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)
-- [ ] ($) Install JetBrains IDEs
+- [ ] $ Install JetBrains IDEs
   - PyCharm
   - IntelliJ
   - Ryder
@@ -67,6 +69,7 @@ This setup is mostly based on personal preferences and needs.
 ### Third-Party Applications
 
 - [ ] Install [Discord](https://discord.com/)
+- [ ] Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [ ] Install [Google Chrome](https://www.google.com/intl/en-gb/chrome/)
   - Add [Clear Cache](https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
   - Add [DeepL Translate](https://chromewebstore.google.com/detail/deepl-translate/cofdbpoegempjloogbagkncekinflcnj)
@@ -84,9 +87,10 @@ This setup is mostly based on personal preferences and needs.
 - [ ] Install [Zotero](https://www.zotero.org/support/installation)
   - Setup sync with WebDAV Server
 
-### Services
+### Configurations
 
 - [ ] Configure iMessage
+- [ ] Configure Time Machine
+- [ ] Enable "Tap to click"
 - [ ] Disable app dock bouncing `defaults write com.apple.dock no-bouncing -bool TRUE`
 - [ ] Configure hosts file [`/etc/hosts`](https://gist.github.com/consti/8022703)
-- [ ] 
