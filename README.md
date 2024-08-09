@@ -12,7 +12,7 @@ This setup is mostly based on personal preferences and needs.
 ### Finder
 
 - [ ] Add `~/Developer` directory
-- [ ] Show Library directory with `chflags nohidden ~Library`
+- [ ] Show Library directory with `chflags nohidden ~/Library`
 
 ### Dock
 
@@ -29,8 +29,8 @@ This setup is mostly based on personal preferences and needs.
 - [ ] Install [SF Fonts](https://developer.apple.com/fonts/)
 - [ ] Install [JetBrains Fonst](https://www.jetbrains.com/lp/mono/)
 - [ ] Install [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
-  - [ ] FiraCode Nerd Font
-  - [ ] FiraMono Nerd Font
+  - FiraCode Nerd Font
+  - FiraMono Nerd Font
 
 ## ⚙️ Developer Settings
 
@@ -89,6 +89,7 @@ This setup is mostly based on personal preferences and needs.
 
 ### Configurations
 
+- [ ] Activate Firewall
 - [ ] Configure iMessage
 - [ ] Configure Time Machine
 - [ ] Enable "Tap to click"
